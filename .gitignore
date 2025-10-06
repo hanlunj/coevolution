@@ -1,0 +1,11 @@
+# Training, models and predicted fitness can be found at Zenodo: 
+spm/data/
+spm/models/
+spm/example/data/
+spm/example/models/
+spm/__pycache__/
+epistasis/data/
+epistasis/__pycache__/
+simulation/data/
+simulation/__pycache__/
+simulation/traj_10000000_tol0.0-0/
