@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ### Training and Using SPM
 
-Code for training and applying the SPM is available in the `spm/` directory.  
+Code for training and applying the SPM is available in `spm/`.  
 Training data and pre-trained model weights can be downloaded from the [Zenodo repository]() and placed under `spm/data/` and `spm/models/`.
 
 An example of running the training script and using the trained model for prediction can be found in `spm/example/`.
