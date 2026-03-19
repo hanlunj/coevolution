@@ -51,7 +51,7 @@ The output files **`sink_freqs.npz`** and **`sinks.dict.pkl`** contain sequences
 ### Citation
 
 If you use this code or data in your research, please cite:  
-> Yang, A., Jiang, H., Jude, K. M., Akpinaroglu, D., Allenspach, S., Li, A. J., Bowden, J., Perez, C.P., Liu, L., Huang, P.S. and Kortemme, T., Listgarten, J. & Garcia, K. C. (2026). Structural ontogeny of protein-protein interactions. Science, 391(6786), eadx6931.
+> Yang, A., Jiang, H., Jude, K. M., Akpinaroglu, D., Allenspach, S., Li, A. J., Bowden, J., Perez, C.P., Liu, L., Huang, P.S. Kortemme, T., Listgarten, J. & Garcia, K. C. (2026). Structural ontogeny of protein-protein interactions. Science, 391(6786), eadx6931.
 
 ---
 
